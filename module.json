@@ -21,7 +21,11 @@
     {
       "name": "bananas-patreon",
       "label": "Banana Borders",
+<<<<<<< HEAD
       "path": "packs\banana-patreon.db",
+=======
+      "path": "/banana-patreon.db",
+>>>>>>> e7afc8154bf9939214de7c73df7d6deb31127615
       "type": "Macro",
       "module": "bananas-patreon"
     }
